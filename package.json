@@ -1,0 +1,11 @@
+{
+	"name": "dashboard-ui",
+	"version": "1.0.0",
+	"description": "a dashboard UI with tailwind css",
+	"main": "tailwind.config.js",
+	"scripts": {
+		"watch": "./tailwindcss -i ./app/app.css -o ./dist/app.css --watch"
+	},
+	"author": "",
+	"license": "ISC"
+}
