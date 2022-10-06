@@ -1,1 +1,1 @@
-## A Dashboard UI inspiration
+## A Dashboard UI inspiration made with Tailwind CSS
